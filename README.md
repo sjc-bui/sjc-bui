@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-- 😄 Projects: [Cheelloo](https://sjc-bui.github.io/trello/)
+- 😄 ReactJS App: [Trello Clone ===> Cheelloo](https://sjc-bui.github.io/trello/)
